@@ -1,4 +1,5 @@
 Talk: Principles of neural design
+=================================
 
 idea: Wade through the mountains of data to understand how brain is optimized to process information at all scales
 
