@@ -1,9 +1,10 @@
-Talk: Principles of neural design
-=================================
+Talk/Book review: Principles of neural design
+=============================================
 
 idea: Wade through the mountains of data to understand how brain is optimized to process information at all scales
 
-Introduction: 50k neuroscine
+
+Introduction: 50k neuroscientists
 Chapter
 
 page 470: design principles, "what fires together, locates together" (p. 95)
