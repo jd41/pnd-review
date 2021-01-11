@@ -1,13 +1,20 @@
 Book review: Principles of Neural Design
 ========================================
+NOTE: The idea of the talk was to present a PDF viewer showing the book and enter appropriate pages during the talk/discussion. I am working with page numbers from the PDF viewer, get in contact if there is any doubt what PDF version is relevant.
 
 Motivation for the book
 -----------------------
-This is given in the summary, to be found on `Goodreads <https://www.goodreads.com/book/show/23582015-principles-of-neural-design>`_.
-
+Idea: Wade through the mountains of data to understand how brain is optimized to process information at all scales
+More details: summary, to be found on `Goodreads <https://www.goodreads.com/book/show/23582015-principles-of-neural-design>`_.
+So, take a physics approach to neuroscience
+(Rutherford quote: "All science is either physics or stamp-collecting")
+.. not done here: discuss sociological differences between neuroscience and physics
+.. e.g. for neuroscientists, doing experiments is apparently higher-status, while for physicists, explaining them is
 
 Structure and content of the book
 ---------------------------------
+- 
+
 Highlights: Evidence for optimality
 -----------------------------------
 Further evidence of design principles
@@ -23,7 +30,7 @@ Text comments for the talk:
 Talk/Book review: Principles of neural design
 =============================================
 
-idea: Wade through the mountains of data to understand how brain is optimized to process information at all scales
+Idea: Wade through the mountains of data to understand how brain is optimized to process information at all scales
 
 
 Introduction: 50k neuroscientists
