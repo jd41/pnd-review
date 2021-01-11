@@ -37,7 +37,7 @@ Structure and content of the book
   - **Chapter 5:** basic Shannon theory+general ideas of information processing with molecular circuits
   - **Chapter 6:** protein circuits and how they implement computational primitives
   - **Chapter 7:** whole neurons
-  - **Chapter 10** would fit in this order as well, 
+  - **Chapter 10** would fit in this order as well: discusses how analogue signals are recoded to pulsatile for transmission over 1 mm distance
 
 - **Chapters 8-12:** trace flow of optical information through a nervous system, from the environment to the brain, also brief excursions to other senses (TODO link to the example for auditory receptors)
 
