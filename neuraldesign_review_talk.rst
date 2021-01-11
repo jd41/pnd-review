@@ -1,19 +1,51 @@
 Book review: Principles of Neural Design
 ========================================
-NOTE: The idea of the talk was to present a PDF viewer showing the book and enter appropriate pages during the talk/discussion. I am working with page numbers from the PDF viewer, get in contact if there is any doubt what PDF version is relevant.
+.. note::
+   The idea of the talk was to present a PDF viewer showing the book and enter
+   appropriate pages during the talk/discussion. I am working with page numbers
+   from the PDF viewer, where
+   
+   page number in the PDF view = page number in the book + 25.
+   
+   Get in contact if there is any doubt what PDF is being     
+   used (different versions may count pages differently).
 
 Motivation for the book
 -----------------------
-Idea: Wade through the mountains of data to understand how brain is optimized to process information at all scales
-More details: summary, to be found on `Goodreads <https://www.goodreads.com/book/show/23582015-principles-of-neural-design>`_.
-So, take a physics approach to neuroscience
+- **Idea**: Wade through the mountains of data to understand how nervous systems are optimized to process information at all scales
+
+- **More details**: summary, to be found on `Goodreads <https://www.goodreads.com/book/show/23582015-principles-of-neural-design>`_. (*open link, talk about 50k neuroscientists, "this is the first number, there are a lot"*)
+
+- **Take a physics approach to neuroscience**
 (Rutherford quote: "All science is either physics or stamp-collecting")
+
 .. not done here: discuss sociological differences between neuroscience and physics
 .. e.g. for neuroscientists, doing experiments is apparently higher-status, while for physicists, explaining them is
 
 Structure and content of the book
 ---------------------------------
-- 
+*open page 8*
+
+- **Before chapter 1:** Some preceding text (Preface/Acknowledgements/Introduction)
+
+- **Chapter 1:** introduction, presentation of the book and the design principles (which are also denoted on page 470)
+
+- **Chapters 2-4:** discusses information processing from simple to complex organisms (starting with E. Coli, via more complicated bacterium Paramecium, C. Elegans, up to insects/mammals)
+
+- **Chapters 5-7:** discusses information processing from small to big scales
+
+  - **Chapter 5:** basic Shannon theory+general ideas of information processing with molecular circuits
+  - **Chapter 6:** protein circuits and how they implement computational primitives
+  - **Chapter 7:** whole neurons
+  - **Chapter 10** would fit in this order as well, 
+
+- **Chapters 8-12:** trace flow of optical information through a nervous system, from the environment to the brain, also brief excursions to other senses (TODO link to the example for auditory receptors)
+
+- **Chapters 13, 14, 15** stand for themselves: wiring principles, learning, summary
+
+- **After chapter 15** notes, references, index
+
+- end of each chapter generally gives motivation for the next one (maybe always - didn't check)
 
 Highlights: Evidence for optimality
 -----------------------------------
