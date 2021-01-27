@@ -93,7 +93,7 @@ Noteworthy things about the book
 
 - Focus on vision
 - Focus on small scale/early stages of information processing
-- not tht much about higher brain functions
+- not that much about higher brain functions
 - I liked: lots of numbers everywhere
 
 Criticism:
@@ -146,6 +146,9 @@ The vestibular/auditory story
 
 Highlighted notes
 -----------------
+pictures that belong together: 296/300: auditory vs vestibular cells
+292/100: size of axons, vestibular is biggest
+
 Chapter 2: Information processing in simple organisms
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - **Page 39/Figure 2.2:** Mechanism by which E. coli processes information about glucose/lactose concentration in environment; only synthesizes lactase if no glucose, but lactase
