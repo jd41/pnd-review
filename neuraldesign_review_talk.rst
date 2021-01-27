@@ -148,7 +148,7 @@ Highlighted notes
 -----------------
 pictures that belong together: 296/300: auditory vs vestibular cells
 292/100: size of axons, vestibular is biggest
-437 learning
+437 early LTP, 438 example for late LTP, see also STDP in internet!
 
 Chapter 2: Information processing in simple organisms
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
