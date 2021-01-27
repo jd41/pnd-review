@@ -22,7 +22,7 @@ Motivation for the book
 .. e.g. for neuroscientists, doing experiments is apparently higher-status, while for physicists, explaining them is
 
 What are the design principles?
---------------------------f-----
+-------------------------------
 *open, discuss page 470, 471*
 
 How is the brain optimal?/My view on this
@@ -148,6 +148,7 @@ Highlighted notes
 -----------------
 pictures that belong together: 296/300: auditory vs vestibular cells
 292/100: size of axons, vestibular is biggest
+437 learning
 
 Chapter 2: Information processing in simple organisms
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
