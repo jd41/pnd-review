@@ -2,29 +2,14 @@ Book review: Principles of Neural Design
 ========================================
 Taking a physics approach to neuroscience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-In the early 20th century, a famous physicist `divided science into "physics and stamp-collecting" <https://quoteinvestigator.com/2015/05/08/stamp/>`_. This was clearly meant as an insult to biology, which physicists traditionally like to see as less intellectually challenging - and intrinsically less relevant - than physics. For a long time, this perception was shared by the public consciousness: Physicists were behind amazing and weird theories about the universe, while biologists we
 
-Recently, however, fundamental physics is seen as being in a deep crisis. It has failed to combine 
+`Principles of Neural design <https://www.goodreads.com/book/show/23582015-principles-of-neural-design>`_ tries to do just that:
 
-Today, however, fundamental physics is seen as being in a deep crisis
+Very roughly, the book can be divided into three main parts:
+- various introductions of the design principles, epilogues 
 
-In the real world, however, the tables have been turning. Biological research is much more sophisticated than it was 70 years agao, while fundamental physics is seen as beeing in a deep crisis.
+So what are those design principles?
 
-was seen as less intellectually challenging and relevant than physics. But today, the tables have turned: In the 2007, famous physicist Freeman Dyson - of QED and nuclear bomb fame - `remarked <https://hahana.soest.hawaii.edu/cmoreserver/summercourse/2012/documents/chisholm_07-02-12/Dyson-Our_Biotech_Future_by_Freeman_Dyson.pdf>` that
- "It has become part of the accepted wisdom to say that the twentieth century was the century
-of physics and the twenty-first century will be the century of biology."
- 
-
-Today, we
-
-
-Motivation for the book
------------------------
-This is given in the summary, to be found on `Goodreads <https://www.goodreads.com/book/show/23582015-principles-of-neural-design>`_.
-
-
-Structure and content of the book
----------------------------------
 Highlights: Evidence for optimality
 -----------------------------------
 Further evidence of design principles
